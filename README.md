@@ -17,23 +17,7 @@ After the above is read from stdin, the game should continue reading game comman
 <h3> Example </h3> 
 
 `Input`
-> 3
-> 0 -1 1 -1 2
-> 2 0 -1 -1 -1
-> 2 -1 -1 0 -1
-> 4
-> 1 0
-> 0 2
-> 2 2
-> 2 1
-> look
-> clean
-> 2:clean
-> east
-> look
-> 0:clean
-> look
-> exit
+3<br /> 0 -1 1 -1 2<br /> 2 0 -1 -1 -1<br /> 2 -1 -1 0 -1<br /> 4<br /> 1 0<br /> 0 2<br /> 2 2<br /> 2 1<br /> look<br /> clean<br /> 2:clean<br /> east<br /> look<br /> 0:clean<br /> look<br /> exit<br />
 
 `Output`
 > Room 2, dirty, neighbors 0 to the east, contains:
