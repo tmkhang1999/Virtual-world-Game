@@ -20,28 +20,4 @@ After the above is read from stdin, the game should continue reading game comman
 > 3<br /> 0 -1 1 -1 2<br /> 2 0 -1 -1 -1<br /> 2 -1 -1 0 -1<br /> 4<br /> 1 0<br /> 0 2<br /> 2 2<br /> 2 1<br /> look<br /> clean<br /> 2:clean<br /> east<br /> look<br /> 0:clean<br /> look<br /> exit<br />
 
 `Output`
-> Room 2, dirty, neighbors 0 to the east, contains:
-> PC
-> human 2
-> 
-> 2 grumbles. Respect is now 39
-> 
-> 2 grumbles a lot. Respect is now 36
-> 2 leaves towards the east.
-> 
-> You leave towards the east.
-> 
-> Room 0, half-dirty, neighbors 1 to the south 2 to the west, contains:
-> animal 0
-> PC
-> human 2
-> 
-> 0 licks your face a lot. Respect is now 39
-> 2 grumbles. Respect is now 38
-> 2 leaves towards the south
-> 
-> Room 0, clean, neighbors 1 to the south 2 to the west, contains:
-> animal 0
-> PC
-> 
-> Goodbye!
+> Room 2, dirty, neighbors 0 to the east, contains:<br /> PC<br /> human 2<br /> <br /> 2 grumbles. Respect is now 39<br /> <br /> 2 grumbles a lot. Respect is now 36<br /> 2 leaves towards the east.<br /> <br /> You leave towards the east.<br /> <br /> Room 0, half-dirty, neighbors 1 to the south 2 to the west, contains:<br /> animal 0<br /> PC<br /> human 2<br /> <br /> 0 licks your face a lot. Respect is now 39<br /> 2 grumbles. Respect is now 38<br /> 2 leaves towards the south<br /> <br /> Room 0, clean, neighbors 1 to the south 2 to the west, contains:<br /> animal 0<br /> PC<br /> <br /> Goodbye!<br />
